@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mich-coltra.github.io/seven-lounge-bar/sitemap.xml
